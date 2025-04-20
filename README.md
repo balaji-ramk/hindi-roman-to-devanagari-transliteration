@@ -74,4 +74,12 @@ Please let me know if you have any advice or thoughts on this, as I would love t
 - [AI4Bharat IndicXlit (Model)](https://github.com/AI4Bharat/IndicXlit) - Model architecture and training methods greatly inspired from here. [Paper](https://arxiv.org/abs/2205.03018).
 - [AI4Bharat Aksharantar (Dataset)](https://huggingface.co/datasets/ai4bharat/Aksharantar) - Used the hindi part of this dataset for training the model. (Downloaded the hin.zip, converted the JSONL files to parquet via Pandas for HuggingFace Dataset library).
 
+@article{Madhani2022AksharantarTB,
+  title={Aksharantar: Towards building open transliteration tools for the next billion users},
+  author={Yash Madhani and Sushane Parthan and Priyanka A. Bedekar and Ruchi Khapra and Vivek Seshadri and Anoop Kunchukuttan and Pratyush Kumar and Mitesh M. Khapra},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2205.03018}
+}
 
+(I'm not too sure how to cite in a readme.md for github, have pasted the citation anyway)
