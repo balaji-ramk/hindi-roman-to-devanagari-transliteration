@@ -19,8 +19,8 @@ Please let me know if you have any advice or thoughts on this, as I would love t
 ## How to Run
 1. Clone this repo and move into the directory:
    ```bash
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone https://github.com/balaji-ramk/hindi-roman-to-devanagari-transliteration.git
+   cd hindi-roman-to-devanagari-transliteration
    ```
 2. Train the model:
    ```
